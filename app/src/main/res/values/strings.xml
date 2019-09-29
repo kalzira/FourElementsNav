@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Four Meal</string>
+
+    <string name="dessert_text">Cakes are not only for bithday parties. It is also a good dessert after dinner. There are a lot of types of cakes: Strawberry mousse cake, Chocolate, Cheesecake and even Carrot Cake.</string>
+    <string name="breakfast_text">Breakfast is a first meal. Traditional breakfast foods include pork sausages or bacon, fried potatoes, eggs, toast, cereals, pancakes and maple syrup, or hot oatmeal.</string>
+    <string name="lunch_text">Lunch is a meal eaten around midday. North Americans generally eat a quick lunch that often includes some type of sandwich, soup, or leftovers from the previous night\'s dinner (e.g., rice or pasta). Children often bring packed lunches to school, which might consist of a sandwich</string>
+    <string name="dinner_text">Dinner often consists of a main entree of meat, chicken, or fish, with side dishes of rice, potato, or pasta and a vegetable or salad. Most people drink water, iced tea, juice, soda, wine, or beer with their evening meal.</string>
+    <string name="title_breakfast">Breakfast</string>
+    <string name="title_lunch">Lunch</string>
+    <string name="title_dinner">Dinner</string>
+    <string name="title_dessert">Dessert</string>
+</resources>
